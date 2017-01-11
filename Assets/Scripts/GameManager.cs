@@ -9,9 +9,6 @@ public class GameManager : MonoBehaviour {
 	void Awake () {
         if (gm == null)
             gm = this; 
-
-        
-        // Get the players from the server
 	
 	}
 	
